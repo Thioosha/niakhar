@@ -1,0 +1,11 @@
+# Ignorer le dossier Data_DJI
+Data_DJI/
+
+# Ignorer l'environnement virtuel
+.env/
+
+# Ignorer l'historique
+.history/
+
+# Ignorer le cache Python dans calibration
+calibration/__pycache__/
