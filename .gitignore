@@ -9,3 +9,4 @@ Data_DJI/
 
 # Ignorer le cache Python dans calibration
 calibration/__pycache__/
+calibration/orthomosaic_output/

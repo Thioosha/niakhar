@@ -1,7 +1,7 @@
 """
 extract_dn.py — Extraction des DN bruts depuis un RJPEG DJI thermique.
 Utilise dji_irp.exe en mode 'extract' pour obtenir la matrice uint16 brute.
-Le script reste testable directement avec `python extract_dn.py`
+Le script reste testable directement avec `python calibration/extract_dn.py`
 """
 
 import numpy as np
